@@ -1,6 +1,15 @@
-# Controverse
+# L'exposition aux radiofr¨¦quences dans les habitations - Groupe 22
 
+Hello, everyone. We are the 22 group of course ETIC at Telecom ParisTech.
 
-https://controverses.telecom-paristech.fr
+Our group members are:
 
-Each Role have a specific folder, please deliver your assignement in the folder of your role. 
+- Alexandre Lac
+- Anna O. Tari
+- Aur¨¦lie Marinho
+- BAO Yukun
+- David Perera
+- Louis Fesquet
+- Najate Ochbouk
+
+For more information about this class, please refer to the [course website](https://controverses.telecom-paristech.fr).
