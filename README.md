@@ -4,7 +4,7 @@ Hello, everyone. We are the 22 group of course ETIC at Telecom ParisTech.
 
 Our group members are:
 
-- Alexandre Lac
+- Alexandre Lac (https://github.com/alac88)
 - Aurelie Marinho
 - [BAO Yukun](https://github.com/baoyukun)
 - David Perera
