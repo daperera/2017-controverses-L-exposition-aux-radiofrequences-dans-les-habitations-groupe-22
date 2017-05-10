@@ -8,7 +8,7 @@ Our group members are:
 - Aurelie Marinho
 - [BAO Yukun](https://github.com/baoyukun)
 - David Perera
-- [Hamy Ratoanina] (https://github.com/hratoanina)
+- [Hamy Ratoanina](https://github.com/hratoanina)
 - Louis Fesquet
 - Najate Ochbouk
 
